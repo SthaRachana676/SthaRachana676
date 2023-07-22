@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.rachanashrestha1.com.np/](https://www.rachanashrestha1.com.np/)
-
 - 💬 Ask me about **Android, Asp.net Core**
 
-- 📫 How to reach me **rachanas676@gmail.com**
+- 📫 How to reach me [https://www.rachanashrestha1.com.np/](https://www.rachanashrestha1.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
